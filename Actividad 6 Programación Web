@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <!--LLenar el Title y los Metadatos-->
+    <title>Unidad 1 | Actividad 06</title>
+    <link rel="icon" type="image/x-icon" href="favicon.ico">
+    <meta charset="utf-8">
+    <meta name="Autor" content="Cristian Alberto Mendoza Hernández">
+    <meta name="Fecha" content="Martes 11 de febrero del 2025">
+    <meta name="Descripción" content="Estructura HTML5; Hola mundo">
+  </head>
+  <body>
+    <!--Llenar el titulo y pegar el contenido-->
+    <h1>
+    Unidad 1 | Actividad 06 :: Tema (Witgets)
+    </h1>
+    <h3>Siglas</h3>
+    <details name="siglas">
+        <summary>OSI</summary>
+        <p>Definición</p>
+    </details>
+    <details name="siglas">
+        <summary>IP</summary>
+        <p>Definición</p>
+    </details>
+    <details name="siglas">
+        <summary>TCP</summary>
+        <p>Definición</p>
+    </details>
+    <details name="siglas">
+        <summary>UDP</summary>
+        <p>Definición</p>
+    </details>
+    <details name="siglas">
+        <summary>SSH</summary>
+        <p>Definición</p>
+    </details>
+    <details name="siglas">
+        <summary>FTP</summary>
+        <p>Definición</p>
+    </details>
+    <details name="siglas">
+        <summary>SMTP</summary>
+        <p>Definición</p>
+    </details>
+    <details name="siglas">
+        <summary>POP</summary>
+        <p>Definición</p>
+    </details>
+    <details name="siglas">
+        <summary>DHCP</summary>
+        <p>Definición</p>
+    </details>
+    <details name="siglas">
+        <summary>DNS</summary>
+        <p>Definición</p>
+    </details>
+    <details name="siglas">
+        <summary>HTTP</summary>
+        <p>Definición</p>
+    </details>
+    <details name="siglas">
+        <summary>ARP</summary>
+        <p>Definición</p>
+    </details>
+    <details name="siglas">
+        <summary>MAC</summary>
+        <p>Definición</p>
+    </details>
+    <details name="siglas">
+        <summary>LAN</summary>
+        <p>Definición</p>
+    </details>
+  </body>
+</html>
